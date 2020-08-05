@@ -1,0 +1,28 @@
+
+Ul.nav-bar{background-color:whites;margin:0;padding:0 }
+Ul.nav-bar
+li{list-style-type:none;float: right; }
+Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color: rgb(238, 121, 11) }
+Ul.nav-bar li a :hover{color:yellow}
+h3 {color:orange }
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+.button1 {background-color: #4CAF50;} /* Green */
+
+body {
+  background-color:white;
+}
+
+
