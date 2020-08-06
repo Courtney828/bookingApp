@@ -18,14 +18,14 @@ h3 {color:orange }
   cursor: pointer;
 }
 div{
-  background-image:url("https://tse4.mm.bing.net/th?id=OIP.bfdXvZOsBc0kjtdHrrq4NgHaDX&pid=Api&P=0&w=363&h=166");
-  
+  background-image:url("https://tse4.mm.bing.net/th?id=OIP.bfdXvZOsBc0kjtdHrrq4NgHaDX&pid=Api&P=0&w=363&h=166"); 
 }
 body {
   background-image: url("https://tse3.mm.bing.net/th?id=OIP.cHti3kYYzLyvVwkZcnBqeQHaLH&pid=Api&P=0&w=300&h=300");
 }
 body {
     background-color:lightgrey;
+    
   }
 
 .pagination {
