@@ -1,5 +1,5 @@
 
-Ul.nav-bar{background-color:gray;margin:0;padding:0 }
+Ul.nav-bar{background-color:darkkhaki;margin:0;padding:0 }
 Ul.nav-bar
 li{list-style-type:none;float: right; }
 Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color:black}
@@ -8,7 +8,7 @@ h3 {color:orange }
 
 .button {
   border: none;
-  color: white;
+  color:darkgray;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -17,12 +17,17 @@ h3 {color:orange }
   margin: 4px 2px;
   cursor: pointer;
 }
-
-
-.button1 {background-color:darkgray} /* Green */
-
-body {
-  background-color:gainsboro;
+div{
+  background-color:darkkhaki;
+  
 }
+
+
+h1,h2,h3,h4{
+  font-display:  Arial, Helvetica, sans-serif
+}
+
+
+
 
 
