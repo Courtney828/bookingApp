@@ -1,8 +1,8 @@
 
-Ul.nav-bar{background-color:whites;margin:0;padding:0 }
+Ul.nav-bar{background-color:gray;margin:0;padding:0 }
 Ul.nav-bar
 li{list-style-type:none;float: right; }
-Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color: rgb(238, 121, 11) }
+Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color:black}
 Ul.nav-bar li a :hover{color:yellow}
 h3 {color:orange }
 
@@ -19,10 +19,10 @@ h3 {color:orange }
 }
 
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button1 {background-color:darkgray} /* Green */
 
 body {
-  background-color:white;
+  background-color:gainsboro;
 }
 
 
