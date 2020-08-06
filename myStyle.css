@@ -51,8 +51,9 @@ body {
 
 .form-inline { display: flex; flex-flow: row wrap; align-items: center;}
 .form-inline label { margin: 5px 10px 5px 0; }
-.form-inline input { vertical-align: middle; margin: 5px 10px 5px 0; padding: 10px; background-color: #fff; border: 1px solid #ddd; }
-.form-inline button { padding: 10px 20px; background-color: darkgray; border: 1px solid #ddd; color: white; } .form-inline button:hover { background-color:darkgray; } 
+.form-inline input { vertical-align: middle; margin: 5px 10px 5px 0; padding: 10px; 
+background-color: #fff; border: 1px solid #ddd; }
+.form-inline button { padding: 12px 30px; background-color: grey; border: 1px solid #ddd; color: white; } .form-inline button:hover { background-color:whitesmoke; } 
  @media (max-width: 800px) { .form-inline input { margin: 10px 0; } .form-inline { flex-direction: column; align-items: stretch; } }
 
 
