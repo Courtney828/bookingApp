@@ -17,6 +17,10 @@ Ul.nav-bar li a :hover{color:yellow}
   margin: 4px 2px;
   cursor: pointer;
 }
+h1{
+  text-align: center;
+  color:black;
+}
 
 div {
   background-image:url("https://tse4.mm.bing.net/th?id=OIP.bfdXvZOsBc0kjtdHrrq4NgHaDX&pid=Api&P=0&w=363&h=166"); 
